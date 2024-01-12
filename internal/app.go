@@ -1,5 +1,5 @@
 package internal
 
-func New() {
+func NewApp() {
 
 }
